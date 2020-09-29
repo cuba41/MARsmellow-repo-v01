@@ -5,9 +5,11 @@ Do
 You
 Play
 ?
+
 Playstation 
 or
 Xbox
 PC
 ?
+
 And why?
