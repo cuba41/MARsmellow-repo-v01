@@ -1,4 +1,4 @@
-# MARsmellow-repo-v01
+# MARsmellow-repo-v02
 Which 
 System
 Do
@@ -6,7 +6,8 @@ You
 Play
 ?
 
-Playstation
+Playstation 
+or
 Xbox
 PC
 ?
